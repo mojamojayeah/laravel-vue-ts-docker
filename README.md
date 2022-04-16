@@ -1,4 +1,4 @@
-### laravel ✖️ Vue.js with in Docker
+### laravel ✖️ Vue.js in Docker
 
 #### StartProject
 
