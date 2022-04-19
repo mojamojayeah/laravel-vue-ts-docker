@@ -29,4 +29,5 @@ node_modules
 ./laravel-vue-ts/storage/framework/routes.scanned.php
 ./laravel-vue-ts/storage/framework/schedule-*
 ./laravel-vue-ts/storage/framework/services.json
+.DS_Store
 
