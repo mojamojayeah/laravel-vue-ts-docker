@@ -7,3 +7,5 @@ cd laravel-vue-ts
 yarn compile
 yarn start
 ```
+
+testtest
